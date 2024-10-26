@@ -1,2 +1,2 @@
 ﻿# Simple-Counter
-https://codexxx0.github.io/Simple-Counter/
+https://RemonElbana.github.io/Simple-Counter/
